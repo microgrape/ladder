@@ -3,7 +3,7 @@
 在这里介绍一种科学上网方法：仅需要在路由器上配置一次，其他电子设备（包括手机、平板pad、PC、笔记本）无需配置的方法。  
   
 **1、一个支持ss/ssr访问的服务器。**  
-可以是付费的，也可以是自己买VPS服务器搭建的ss server。笔者使用的付费服务（https://github.com/baacloud/url）  
+可以是付费的，也可以是自己买VPS服务器搭建的ss server。笔者使用的付费服务：https://github.com/baacloud/url  
 注：ss=shadowsocks;ssr=shadowsocks-R  
 
 **2、硬件：  一台支持梅林固件的无线路由器。**
@@ -25,7 +25,7 @@
 如上图所示，如果红框里的软件中心版本不是最新的，需要先进行一下更新。  
 
 3.2 离线安装ss/ssr客户端软件  
-具体用什么软件呢？非常推荐fancyss（https://github.com/hq450/fancyss）  
+具体用什么软件呢？非常推荐fancyss：https://github.com/hq450/fancyss  
 大多数路由器都可以找到自己的对应版本的fancyss。  
 
 安装好了之后，就可以如上面的图中，看到一个红灿灿的“科学上网”。
