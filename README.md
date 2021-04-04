@@ -25,7 +25,7 @@
 如上图所示，如果红框里的软件中心版本不是最新的，需要先进行一下更新。  
 
 3.2 离线安装ss/ssr客户端软件  
-具体用什么软件呢？非常推荐fancyss（https://github.com/hq450/fancyss）。  
+具体用什么软件呢？非常推荐fancyss（https://github.com/hq450/fancyss）  
 大多数路由器都可以找到自己的对应版本的fancyss。  
 
 安装好了之后，就可以如上面的图中，看到一个红灿灿的“科学上网”。
